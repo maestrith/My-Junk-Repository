@@ -1,7 +1,7 @@
 #SingleInstance,Force
 DebugWindow("More things",1)
 MyFunction(a,b,c,d,e,f,g)
-
+m("I added this thing")
 
 MyFunction(a,b,c,d,e,f,g){
 	a:=1,b:=2,c:=4,d:=3
